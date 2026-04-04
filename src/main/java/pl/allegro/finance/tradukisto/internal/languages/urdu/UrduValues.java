@@ -146,7 +146,11 @@ public class UrduValues implements BaseValues {
             new EnglishPluralForms("لاکھ"),
             new EnglishPluralForms("کروڑ"),
             new EnglishPluralForms("ارب"),
-            new EnglishPluralForms("کھرب")
+            new EnglishPluralForms("کھرب"),
+            new EnglishPluralForms("نیلم"),
+            new EnglishPluralForms("پدم"),
+            new EnglishPluralForms("سنکھ"),
+            new EnglishPluralForms("مہاسنکھ")
         );
     }
 
